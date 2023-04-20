@@ -17,7 +17,7 @@ Vanilla JavaScript Front End with Node JS Back End that calls OpenAI's Dalle-2 A
 `node server.js`  
 
 ## OpenAPI Key
-`touch .env'
+`touch .env`
 Add your API key to .env  
-OPENAI="<yourAPIkey>"
+`OPENAI="<yourAPIkey>"`
 
